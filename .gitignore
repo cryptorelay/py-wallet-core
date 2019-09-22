@@ -1,0 +1,4 @@
+*.so
+/walletcore.c
+/tags
+/build
