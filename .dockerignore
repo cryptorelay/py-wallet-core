@@ -1,6 +1,7 @@
-*.so
 /walletcore.c
 /tags
 /build
 /.venv
+/wallet-core
+*.so
 __pycache__
